@@ -3,23 +3,11 @@
 layout: home
 
 hero:
-  name: "ReadTheDocs Vitepress Example"
-  text: "An example of VitePress documentation published on ReadTheDocs"
-  tagline: My great project tagline
+  name: "Read The Docs & Vitepress Example"
+  text: "An example of VitePress documentation published on Read The Docs"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: Show me how to do that!
+      link: /how-to
 ---
 
